@@ -104,7 +104,7 @@
 
 # The multimodal model performs better because it combines
 # both audio and textual emotional information.
-Justification for 100% Accuracy
+'''Justification for 100% Accuracy
 The model achieved 100% accuracy across speech-only, text-only, and fusion approaches due to the nature of the dataset and feature separability.
 The dataset used (TESS-like emotional speech dataset) consists of:
 Highly clean and noise-free audio recordings
@@ -135,7 +135,7 @@ Controlled dataset conditions
 In real-world scenarios, performance may reduce due to:
 background noise
 speaker variation
-natural language diversity
+natural language diversity'''
 # ============================================================
 # PROJECT FILES
 # ============================================================
