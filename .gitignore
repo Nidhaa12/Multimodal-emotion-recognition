@@ -35,8 +35,7 @@ wheels/
 # Dataset (if it's large)
 dataset/
 
-# Results/Outputs
-Results/
+# Large files
 *.pkl
 *.csv
 
