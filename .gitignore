@@ -35,10 +35,6 @@ wheels/
 # Dataset (if it's large)
 dataset/
 
-# Large files
-*.pkl
-*.csv
-
 # OS
 .DS_Store
 Thumbs.db
